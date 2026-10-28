@@ -1,2 +1,8 @@
 # Trabajo-Criptograf-a-Grupo-2-Tdi
 Trabajo Criptografía Grupo 2
+Integrantes:
+JERÓNIMO MURIEL - E010-43
+MARTÍN PORRA - 21236
+LAUTARO SAEZ MALLAMACI -21683
+AGUSTINA NARVAEZ - 21478
+PAUILINA LENZO - E010373
